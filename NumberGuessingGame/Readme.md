@@ -110,10 +110,3 @@ A fun Java console game where you guess a number with smart hints until you get 
 
 ---
 
-## 👨‍💻 Author
-
-**Avanish Singh Verma**
-Computer Science Engineering Student
-Galgotias University
-
----
