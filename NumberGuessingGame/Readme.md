@@ -35,36 +35,6 @@ NumberGuessingGame.java
 README.md
 ```
 
----
-
-## ▶️ How to Run
-
-1. Clone the repository:
-
-```
-git clone https://github.com/Avanish35/number-guessing-game.git
-```
-
-2. Navigate to the project folder:
-
-```
-cd number-guessing-game
-```
-
-3. Compile the Java file:
-
-```
-javac NumberGuessingGame.java
-```
-
-4. Run the program:
-
-```
-java NumberGuessingGame
-```
-
----
-
 ## 🎯 How to Play
 
 * Enter a number between **1 and 100**
