@@ -42,7 +42,7 @@ README.md
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-username/number-guessing-game.git
+git clone https://github.com/Avanish35/number-guessing-game.git
 ```
 
 2. Navigate to the project folder:
